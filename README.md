@@ -5,8 +5,6 @@
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src ="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <div align="center">
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=venefer)](https://solved.ac/venefer)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=east1otus)](https://github.com/east1otus/github-readme-stats)
 
